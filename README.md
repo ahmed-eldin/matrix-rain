@@ -1,5 +1,6 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="953" alt="Screenshot 2023-07-31 at 6 56 11 PM" src="https://github.com/ahmed-eldin/matrix-rain/assets/111728755/0b9894b7-67f2-4cc0-83de-6204f1bb9dff">
+
 
 
 # JavaScript Matrix Rain
